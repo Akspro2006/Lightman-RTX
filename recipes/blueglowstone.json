@@ -1,0 +1,28 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "RTXS:element_16"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"   ",
+			"#O ",
+			"   "
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:blue_dye"
+			},
+			"O": {
+				"item": "minecraft:glowstone"
+			}
+		},
+		"result": {
+			"item": "minecraft:element_16",
+			"count": 1
+		}
+	}
+}

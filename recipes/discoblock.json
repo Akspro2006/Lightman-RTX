@@ -1,0 +1,40 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "RTXS:element_31"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"RGB",
+			"G#G",
+			"DGO"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:torch"
+			},
+			"R": {
+				"item": "minecraft:red_dye"
+			},
+			"B": {
+				"item": "minecraft:blue_dye"
+			},
+			"G": {
+				"item": "minecraft:glass"
+			},
+			"D": {
+				"item": "minecraft:green_dye"
+			},
+			"O": {
+				"item": "minecraft:orange_dye"
+			}
+		},
+		"result": {
+			"item": "minecraft:element_31",
+			"count": 4
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "RTXS:element_1"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"   ",
+			"#O ",
+			"   "
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:red_dye"
+			},
+			"O": {
+				"item": "minecraft:torch"
+			}
+		},
+		"result": {
+			"item": "minecraft:element_1",
+			"count": 2
+		}
+	}
+}

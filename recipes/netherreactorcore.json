@@ -1,0 +1,28 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "RTXS:element_51"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"B#B",
+			"B#B",
+			"B#B"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:diamond"
+			},
+			"B": {
+				"item": "minecraft:iron_ingot"
+			}
+		},
+		"result": {
+			"item": "minecraft:element_51",
+			"count": 32
+		}
+	}
+}
