@@ -46,5 +46,5 @@ Minecraft: version 1.19 or higher
 <p align="center">
 VIDEO GUIDE WILL BE ADDED SOON
 
-
+## Crafting recipes added in this mod
 
