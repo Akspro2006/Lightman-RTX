@@ -30,3 +30,15 @@ Minecraft: version 1.19 or higher
 
 ## Instruction To install
 
+1) First download Kelly's RTX pack from the link above.
+2) Then download Lightman(RTX) From the releases tab.
+3) Now double-click Kelly RTX.mcpack which would open Minecraft.
+4) After installation of Kelly's RTX resource pack double-click on Lightman(RTX).mcaddon.
+5) Which would install Lightman(RTX) behavior pack.
+6) Now during world creation enable Kelly's RTX as your resource pack.
+7) Then enable Lightman(RTX) as your behavior pack.
+8) turn on the education edition.
+9) Then enjoy your survival world with amazing craftable light.
+
+
+
