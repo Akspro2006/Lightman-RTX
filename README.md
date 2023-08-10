@@ -48,3 +48,72 @@ VIDEO GUIDE WILL BE ADDED SOON
 
 ## Crafting recipes added in this mod
 
+1) Red Light
+
+<p align="center">
+
+   <img src="https://github.com/Akspro2006/Lightman-RTX/blob/main/images/redlight.png" />
+   
+  <p align="center">
+     You need a red dye and a torch to make 2 Red Light
+
+3) Orange Light
+
+  <p align="center">
+  
+  <img src="https://github.com/Akspro2006/Lightman-RTX/blob/main/images/OrangeLight.png" />
+  
+  <p align="center">
+   You need an Orange dye and a torch to make 2 Orange Light
+
+4) Yellow Light
+
+<p align="center">
+
+   <img src="https://github.com/Akspro2006/Lightman-RTX/blob/main/images/YellowLight.png" />
+    
+  <p align="center">
+   You need a Yellow dye and a torch to make 2 Yellow Light
+
+5) Green Light
+
+<p align="center">
+
+   <img src="https://github.com/Akspro2006/Lightman-RTX/blob/main/images/Greenlight.png" />
+   
+   <p align="center">
+      You need a Green dye and a torch to make 2 Green Light
+
+6) Cyan Light
+
+<p align="center">
+
+  <img src="https://github.com/Akspro2006/Lightman-RTX/blob/main/images/CyanLight.png" />
+  
+  <p align="center">
+   You need a Cyan dye and a torch to make 2 Cyan Light
+
+7) Blue Light
+   <p align="center">
+     
+    <img src="https://github.com/Akspro2006/Lightman-RTX/blob/main/images/Bluelight.png" />
+
+   <p align="center">
+   You need a Blue dye and a torch to make 2 Blue Light
+
+8) Purple Light
+   <p align="center">
+    
+     <img src="https://github.com/Akspro2006/Lightman-RTX/blob/main/images/Purplelight.png" />
+
+   <p align="center">
+   You need a Purple dye and a torch to make 2 Purple Light
+
+9) Magenta Light
+    <p align="center"><img src="https://github.com/Akspro2006/Lightman-RTX/blob/main/images/magentalight.png" />
+ <p align="center"> You need a Magenta dye and a torch to make 2 Magenta Light
+
+ 10) Mirror
+    <p align="center"><img src="https://github.com/Akspro2006/Lightman-RTX/blob/main/images/Mirror.png" />
+ <p align="center"> You need 3 Glass and 6 Iron nuggets to make 3 Mirror
+
