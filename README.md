@@ -41,4 +41,10 @@ Minecraft: version 1.19 or higher
 9) Then enjoy your survival world with amazing craftable light.
 
 
+## Here's a video guide for the installation of this pack.
+
+<p align="center">
+VIDEO GUIDE WILL BE ADDED SOON
+
+
 
