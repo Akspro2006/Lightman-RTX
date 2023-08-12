@@ -117,3 +117,14 @@ VIDEO GUIDE WILL BE ADDED SOON
     <p align="center"><img src="https://github.com/Akspro2006/Lightman-RTX/blob/main/images/Mirror.png" />
  <p align="center"> You need 3 Glass and 6 Iron nuggets to make 3 Mirror
 
+ 11) Blue Glowstone
+    <p align="center"><img src="https://github.com/Akspro2006/Lightman-RTX/blob/main/images/BlueGlowstone.png" />
+ <p align="center"> You need a Blue dye and a Glowstone to make 1 Blue Glowstone
+
+ 12) Green Glowstone
+    <p align="center"><img src="https://github.com/Akspro2006/Lightman-RTX/blob/main/images/GreenGlowstone.png" />
+ <p align="center"> You need a Green dye and a Glowstone to make 1 Green Glowstone
+
+  13) Red Glowstone
+    <p align="center"><img src="https://github.com/Akspro2006/Lightman-RTX/blob/main/images/Redglowstone.png" />
+ <p align="center"> You need a Red dye and a Glowstone to make 1 Red Glowstone
